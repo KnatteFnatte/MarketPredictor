@@ -1,0 +1,9 @@
+#Binaries
+*.o
+*.exe
+*.a
+*.out
+
+# Build directories
+build/
+
