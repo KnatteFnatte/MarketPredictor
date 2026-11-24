@@ -3,6 +3,7 @@
 *.exe
 *.a
 *.out
+*.csv
 
 # Build directories
 build/
